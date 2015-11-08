@@ -1,0 +1,18 @@
+background(0, 34, 255);
+
+image(getImage("cute/CharacterBoy"), 100, 100);
+
+image(getImage("creatures/OhNoes"), -7, 151);
+
+color(255, 255, 0);
+
+textFont("cursive", 69);
+
+fill(225, 255, 0);
+
+ellipse(202, 95, 324, -193);
+
+fill(0, 0, 0);
+
+text("Oh Noses!", 102, 20, 200, 200);
+
